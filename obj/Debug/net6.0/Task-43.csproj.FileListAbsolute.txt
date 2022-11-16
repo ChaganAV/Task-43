@@ -1,0 +1,15 @@
+D:\Code\GB\Task-43\bin\Debug\net6.0\Task-43.exe
+D:\Code\GB\Task-43\bin\Debug\net6.0\Task-43.deps.json
+D:\Code\GB\Task-43\bin\Debug\net6.0\Task-43.runtimeconfig.json
+D:\Code\GB\Task-43\bin\Debug\net6.0\Task-43.dll
+D:\Code\GB\Task-43\bin\Debug\net6.0\Task-43.pdb
+D:\Code\GB\Task-43\obj\Debug\net6.0\Task-43.csproj.AssemblyReference.cache
+D:\Code\GB\Task-43\obj\Debug\net6.0\Task-43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GB\Task-43\obj\Debug\net6.0\Task-43.AssemblyInfoInputs.cache
+D:\Code\GB\Task-43\obj\Debug\net6.0\Task-43.AssemblyInfo.cs
+D:\Code\GB\Task-43\obj\Debug\net6.0\Task-43.csproj.CoreCompileInputs.cache
+D:\Code\GB\Task-43\obj\Debug\net6.0\Task-43.dll
+D:\Code\GB\Task-43\obj\Debug\net6.0\refint\Task-43.dll
+D:\Code\GB\Task-43\obj\Debug\net6.0\Task-43.pdb
+D:\Code\GB\Task-43\obj\Debug\net6.0\Task-43.genruntimeconfig.cache
+D:\Code\GB\Task-43\obj\Debug\net6.0\ref\Task-43.dll
