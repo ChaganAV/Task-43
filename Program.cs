@@ -10,6 +10,7 @@ Calculation();
 // Функции
 void Calculation()
 {
+    Console.WriteLine("Решение:");
     Console.WriteLine($"y = {k1}x + {b1}, y = {k2}x + {b2}");
     Console.WriteLine($"y - y = {k1}x + {b1} - ({k2}x + {b2})");
     Console.WriteLine($"{k1}x + {b1} = {k2}x + {b2}");
@@ -19,7 +20,8 @@ void Calculation()
     double y = (double)k2*x + b2;
     Console.WriteLine($"y = {k2}*{x} + {b2}");
     Console.WriteLine($"y = {y}");
-    Console.WriteLine($"Точка пересечения: ({x}; {y})");
+    Console.WriteLine("Ответ:");
+    Console.WriteLine($"k1={k1}, b1={b1}, k2={k2}, b2={b2} -> ({x}; {y})");
 }
 
 int ReadIntFromConsole(string message)
